@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "MikeSadler"
+date: "23 November 2014"
+output: html_document
+---
+
+##This is a markdown file
+
+
+###Extra Notes
+I created this using the RStudio interface available for Mac OS X
